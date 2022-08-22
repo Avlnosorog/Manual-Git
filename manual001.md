@@ -13,4 +13,5 @@
 ### **Работа с VS Code и основные команды** ##
 
 По желанию VS Code можно русифицировать, для этого после установки кликаем на иконку расширений, затем в поле поиска вводим russian, находим пакет Russian Language Pack for Visual Studio Code и жмём Install
-![]()
+
+![scrin_foto1](foto1.png)
